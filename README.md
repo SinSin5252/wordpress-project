@@ -1,7 +1,5 @@
 # Wordpress-project
 
-## Repository Description
-
 A Docker-based Wordpress and Mysql Database setup with persistent data storage and easy configuration using Docker Compose.
 
 ## Table of Content
